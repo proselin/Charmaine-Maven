@@ -50,12 +50,13 @@
             <artifactId>javax.mail-api</artifactId>
             <version>1.6.2</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/jstl/jstl -->
+        <!-- https://mvnrepository.com/artifact/javax.servlet.jsp.jstl/jstl -->
         <dependency>
-            <groupId>jstl</groupId>
+            <groupId>javax.servlet.jsp.jstl</groupId>
             <artifactId>jstl</artifactId>
             <version>1.2</version>
         </dependency>
+
         <!-- https://mvnrepository.com/artifact/com.paypal.sdk/paypal-core -->
         <dependency>
             <groupId>com.paypal.sdk</groupId>
